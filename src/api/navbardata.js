@@ -1,0 +1,37 @@
+export const navitems = [
+    {   
+        id:1,
+        name:'home',
+        url:'#'
+    },
+    {   
+        id:2,
+        name:'about',
+        url:'#'
+    },
+    {   
+        id:3,
+        name:'portfolio',
+        url:'#'
+    },
+    {   
+        id:4,
+        name:'services',
+        url:'#'
+    },
+    {   
+        id:5,
+        name:'blog',
+        url:'#'
+    },
+    {   
+        id:6,
+        name:'testimonial',
+        url:'#'
+    },
+    {   
+        id:6,
+        name:'testimonial',
+        url:'#'
+    }
+]
