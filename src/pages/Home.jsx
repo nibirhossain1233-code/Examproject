@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import Banner from "../components/home/Banner";
+import Experience from "../components/home/Experience";
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <>
+      <Banner />
+      <Experience />
+    </>
+  );
+};
 
-export default Home
+export default Home;
