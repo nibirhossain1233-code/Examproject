@@ -21,7 +21,7 @@ const Banner = () => {
             </p>
             <div className="mt-12.75 flex items-center">
               <Button>Explore More</Button>
-              <button className="border-primary-green font-lato text-primary-black ml-5 flex items-center rounded-[5px] border-2 px-6.25 py-3.5 text-[16px] font-semibold">
+              <button className="border-primary-green font-lato text-primary-black ml-5 flex items-center rounded-[5px] border-2 px-6.25 py-3.5 text-[16px] font-semibold cursor-pointer">
                 <Image src={buttonImg} className="mr-3" />
                 Watch Video
               </button>
