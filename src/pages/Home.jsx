@@ -4,6 +4,8 @@ import Experience from "../components/home/Experience";
 import Services from "../components/home/Services";
 import Latest from "../components/home/Latest";
 import Business from "../components/home/Business";
+import Clients from "../components/home/Clients";
+import Trial from "../components/home/Trial";
 
 const Home = () => {
   return (
@@ -13,6 +15,8 @@ const Home = () => {
       <Services />
       <Latest />
       <Business />
+      <Clients/>
+      <Trial/>
     </>
   );
 };
